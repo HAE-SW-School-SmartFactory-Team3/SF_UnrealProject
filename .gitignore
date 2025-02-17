@@ -4,9 +4,14 @@
 
 /Saved/
 
+/Content/**
 !/Content/YSH/
+!/Content/YSH/*
 !/Content/cjw
+!/Content/cjw/*
 !/Content/kdy
+!/Content/kdy/*
 !/Content/kyg
+!/Content/kyg/*
 !/Content/yjs
-/Content/*
+!/Content/yjs/*
