@@ -5,8 +5,8 @@
 /Saved/
 
 /Content/**
-!Content/YSH/
-!Content/cjw
-!Content/kdy
-!Content/kyg
-!Content/yjs
+!/Content/YSH/
+!/Content/cjw
+!/Content/kdy
+!/Content/kyg
+!/Content/yjs
